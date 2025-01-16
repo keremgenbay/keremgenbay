@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @keremgenbay
 - 👀 I’m interested in C#
-- 🌱 I’m currently learning MVC
 - 📫 You can reach me by e-mail
 
 <!---
